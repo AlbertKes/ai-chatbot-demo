@@ -1,0 +1,18 @@
+# Intellij Configuration Files
+*.idea
+*.iml
+/.gradle
+
+# Build Files
+/build
+build/
+**/src/dev/*
+buildSrc/.gradle/
+buildSrc/build/
+buildSrc/out/
+node_modules
+tsconfig.tsbuildinfo
+.stylelintcache
+
+**/bin
+.vscode
